@@ -1,1 +1,2 @@
-Primer paso para la dominacion mundial
+Primer paso para la dominacion mundial, Completado
+Segundo paso
