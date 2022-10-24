@@ -1,3 +1,1 @@
-Primer paso para la dominacion mundial, Completado.
-
-Segundo paso
+#Jose Arturo Pardo Maliachi
