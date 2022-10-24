@@ -16,4 +16,4 @@ Estudiante aplicado con el objetivo de ganar experiencia laboral en un entorno p
 | Cursando segundo año de SMX en iFP Hospitalet|
 
 ## Experiencia Laboral
-Actualmente no tengo experiencia laboral
+Actualmente no tengo experiencia laboral.
