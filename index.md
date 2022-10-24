@@ -6,7 +6,7 @@
 Estudiante aplicado con el objetivo de ganar experiencia laboral en un entorno professional. Tengo la habilidad de adaptarme rapido a la gente y a ciertos ambitos, soy muy creativo y ambicioso
 
 ## Contacto
-- Correo Electronico : _josearturo.pardo@outlook.es_
+- Correo Electronico : _jose.pardo@outlook.es_
 - Telefono de contacto : _+34_  _683653038_
 
 ## Estudios
