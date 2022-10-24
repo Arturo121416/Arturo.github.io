@@ -1,3 +1,3 @@
 #Jose Arturo Pardo Maliachi
 
-<img "portal.gif""width=498 "height=498>
+<img src="portal.gif" width="498" height="498">
